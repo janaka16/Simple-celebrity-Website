@@ -1,1 +1,1 @@
-"# Simple-celebrity-Website" 
+Simple celebrity Website
